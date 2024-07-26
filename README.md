@@ -127,8 +127,7 @@ npm install axios csv-writer          </pre>
         </ul>
       </li>
     </ul>
-    <p>Com essa documentação, o código fica mais claro e compreensível, facilitando a manutenção e a utilização por outros desenvolvedores.</p>
-    <ul>
+      <ul>
       <li>        <br>
         <br>
         <br>
